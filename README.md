@@ -1,2 +1,2 @@
 
-Sample Java Applicaiton V2.77
+Sample Java Applicaiton V2.88
