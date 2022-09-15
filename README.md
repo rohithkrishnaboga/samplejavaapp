@@ -1,3 +1,3 @@
 
 Sample Java Applicaiton V2.99.0.1
-sample
+sample trigger
